@@ -9,6 +9,8 @@ LABEL MAINTAINER="Johannes Sim" \
 
 # build:  docker image build -t gatsby-hello-world .
 
+
+# tag:    docker tag gatsby-hello-world sim007/gatsby-hello-world 
 # push:   docker push 
 # pull:   docker pull 
 
